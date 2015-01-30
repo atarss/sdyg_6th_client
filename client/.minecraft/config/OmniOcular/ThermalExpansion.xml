@@ -1,0 +1,117 @@
+<!--Author: ViKaleidoscope, EpixZhang-->
+<!--Date: 2014/11/17-->
+<!--Version: 4.0.0B6-->
+<oo>
+    <tileentity id="thermalexpansion.Furnace">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Sawmill">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Pulverizer">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Smelter">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Crucible">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+        <line displayname="Fluid">
+            return nbt['FluidName']+"("+nbt['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Transposer">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+        <line displayname="Fluid">
+            return nbt['FluidName']+"("+nbt['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Precipitator">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+        <line displayname="Fluid">
+            return nbt['FluidName']+"("+nbt['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Extruder">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+        <line displayname="Fluid">
+            return nbt['ColdTank']['FluidName']+"("+nbt['ColdTank']['Amount']+" mB)"
+        </line>
+        <line displayname="Fluid">
+            return nbt['HotTank']['FluidName']+"("+nbt['HotTank']['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Accumulator">
+        <line displayname="Fluid">
+            return nbt['FluidName']+"("+nbt['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Assembler">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+        <line displayname="Fluid">
+            return nbt['FluidName']+"("+nbt['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Crucible">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Crucible">
+        <line displayname="Remain Time">
+            return (nbt['ProcRem']/20).toFixed(0)+' Seconds'
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.DynamoSteam">
+        <line displayname="Fluid">
+            return nbt['SteamTank']['FluidName']+"("+nbt['SteamTank']['Amount']+" mB)"
+        </line>
+        <line displayname="Fluid">
+            return nbt['WaterTank']['FluidName']+"("+nbt['WaterTank']['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.DynamoCompression">
+        <line displayname="Fluid">
+            return nbt['CoolantTank']['FluidName']+"("+nbt['CoolantTank']['Amount']+" mB)"
+        </line>
+        <line displayname="Fluid">
+            return nbt['FuelTank']['FluidName']+"("+nbt['FuelTank']['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Sponge">
+        <line displayname="Fluid">
+            return nbt['FluidName']+"("+nbt['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.SpongeMagmatic">
+        <line displayname="Fluid">
+            return nbt['FluidName']+"("+nbt['Amount']+" mB)"
+        </line>
+    </tileentity>
+    <tileentity id="thermalexpansion.Activator">
+        <line displayname="Left Click">
+            return nbt['LeftClick']
+        </line>
+        <line displayname="Sneaking">
+            return nbt['Sneaking']
+        </line>
+    </tileentity>
+</oo>

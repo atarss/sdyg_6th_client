@@ -1,0 +1,38 @@
+<!--Author: ViKaleidoscope -->
+<!--Date: 2014/11/24-->
+<!--Version: 1.7.10-3.5.1-->
+<oo>
+    <tileentity id="Advanced Solar Panel">
+        <line displayname="gui.AdvancedSolarPanel.storage">
+            return nbt['storage']+" EU"
+        </line>
+    </tileentity>
+    <tileentity id="Hybrid Solar Panel">
+        <line displayname="gui.AdvancedSolarPanel.storage">
+            return nbt['storage']+" EU"
+        </line>
+    </tileentity>
+    <tileentity id="Ultimate Hybrid Solar Panel">
+        <line displayname="gui.AdvancedSolarPanel.storage">
+            return nbt['storage']+" EU"
+        </line>
+    </tileentity>
+    <tileentity id="Quantum Solar Panel">
+        <line displayname="gui.AdvancedSolarPanel.storage">
+            return nbt['storage']+" EU"
+        </line>
+    </tileentity>
+    <tileentity id="Quantum Generator">
+        <line displayname="gui.QuantumGenerator.power">
+            return nbt['production']+" "+translate('gui.AdvancedSolarPanel.energyPerTick')
+        </line>
+    </tileentity>
+    <tileentity id="Molecular Transformer">
+        <line displayname="gui.MolecularTransformer.energyPerOperation">
+            return nbt['lastRecipeEnergyUsed']+' / '+nbt['lastRecipeEnergyPerOperation']+" EU"
+        </line>
+        <line displayname="gui.MolecularTransformer.progress">
+            return nbt['lastProgress']+' %'
+        </line>
+    </tileentity>
+</oo>

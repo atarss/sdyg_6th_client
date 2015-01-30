@@ -1,0 +1,16 @@
+item
+ name:Beef Stew
+ internal_name:beef_stew
+ colour:D16D15
+ stacksize:64
+ effect:true
+ always_drinkable:false
+recipe
+ item:cooked_beef
+thirst_stats
+ bar_heal:5
+ saturation_heal:1.2
+potion_effect
+ id:5
+ duration:20
+ amplifier:0

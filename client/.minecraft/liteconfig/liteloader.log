@@ -1,0 +1,211 @@
+[18:07:59] [main/INFO]: LiteLoader 1.7.10_03 starting up...
+[18:07:59] [main/INFO]: Java reports OS="windows 7"
+[18:07:59] [main/INFO]: Enumerating class path...
+[18:07:59] [main/INFO]: Class path separator=";"
+[18:07:59] [main/INFO]: Class path entries=(
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.7.10-10.13.2.1230\forge-1.7.10-10.13.2.1230.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.11\launchwrapper-1.11.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\16.0\guava-16.0.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.2.1\commons-lang3-3.2.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.16\authlib-1.5.16.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar
+   classpathEntry=C:\Users\Administrator\AppData\Roaming\.minecraft\versions\1.7.10-Forge10.13.2.1230\1.7.10-Forge10.13.2.1230.jar
+)
+[18:07:59] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[18:07:59] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [F:\Minecraft\SuikaCraft#6\.minecraft\mods]
+[18:07:59] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [F:\Minecraft\SuikaCraft#6\.minecraft\mods\1.7.10]
+[18:07:59] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[18:07:59] [main/INFO]: Discovering tweaks on class path...
+[18:07:59] [main/INFO]: Discovering valid mod files in folder F:\Minecraft\SuikaCraft#6\.minecraft\mods
+[18:07:59] [main/INFO]: Considering valid mod file: F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_voxelMap_1.2.3_for_1.7.10.litemod
+[18:07:59] [main/INFO]: Considering valid mod file: F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod
+[18:07:59] [main/INFO]: Considering valid mod file: F:\Minecraft\SuikaCraft#6\.minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar
+[18:07:59] [main/INFO]: Adding newest valid mod file 'F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod' at revision 1727.0000
+[18:07:59] [main/INFO]: Adding newest valid mod file 'F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_voxelMap_1.2.3_for_1.7.10.litemod' at revision 1203.0000
+[18:07:59] [main/INFO]: Adding newest valid mod file 'F:\Minecraft\SuikaCraft#6\.minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar' at revision 184.0000
+[18:07:59] [main/INFO]: Discovering valid mod files in folder F:\Minecraft\SuikaCraft#6\.minecraft\mods\1.7.10
+[18:07:59] [main/INFO]: Searching for tweaks in 'Baubles-1.7.10-1.0.1.10.jar'
+[18:07:59] [main/WARN]: Error parsing manifest entries in 'F:\Minecraft\SuikaCraft#6\.minecraft\mods\1.7.10\Baubles-1.7.10-1.0.1.10.jar'
+[18:07:59] [main/INFO]: Searching for tweaks in 'CodeChickenLib-1.7.10-1.1.1.99-universal.jar'
+[18:07:59] [main/WARN]: Error parsing manifest entries in 'F:\Minecraft\SuikaCraft#6\.minecraft\mods\1.7.10\CodeChickenLib-1.7.10-1.1.1.99-universal.jar'
+[18:07:59] [main/INFO]: Searching for tweaks in 'ForgeMultipart-1.7.10-1.1.0.314-universal.jar'
+[18:07:59] [main/WARN]: Error parsing manifest entries in 'F:\Minecraft\SuikaCraft#6\.minecraft\mods\1.7.10\ForgeMultipart-1.7.10-1.1.0.314-universal.jar'
+[18:07:59] [main/INFO]: Mod file 'mod_voxelMap_1.2.3_for_1.7.10.litemod' provides classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer', adding to class loader
+[18:07:59] [main/INFO]: classTransformer 'com.thevoxelbox.voxelmap.litemod.VoxelMapTransformer' was successfully added
+[18:07:59] [main/INFO]: LiteLoader PREINIT complete
+[18:08:00] [main/INFO]: Injecting event prerenderfbo with 1 handlers in method func_71411_J in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting event postrenderfbo with 1 handlers in method func_71411_J in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting event updateframebuffersize with 1 handlers in method func_147119_ah in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting method return callback for onStartupComplete in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onTick in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onTimerUpdate in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onRender in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onAnimateTick in class net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: Applying overlay com.mumfrey.liteloader.client.overlays.MinecraftOverlay to net.minecraft.client.Minecraft
+[18:08:00] [main/INFO]: MinecraftOverlayTransformer found INIT injection point, this is good.
+[18:08:00] [main/INFO]: Injecting event sendchatmessage with 1 handlers in method func_71165_d in class net.minecraft.client.entity.EntityClientPlayerMP
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for postRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:00] [main/INFO]: Injecting profiler invokation callback for onRenderChat in class net.minecraft.client.gui.GuiIngame
+[18:08:02] [Client thread/INFO]: Injecting event renderfbo with 1 handlers in method func_147615_c in class net.minecraft.client.shader.Framebuffer
+[18:08:03] [Client thread/INFO]: Injecting method return callback for IntegratedServerCtor in class net.minecraft.server.integrated.IntegratedServer
+[18:08:03] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[18:08:03] [Client thread/INFO]: Successfully generated event handler proxy class with 5 handlers(s) and 5 total invokations
+[18:08:04] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[18:08:04] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[18:08:04] [Client thread/INFO]: Injecting profiler invokation callback for onRenderHUD in class net.minecraft.client.renderer.EntityRenderer
+[18:08:04] [Client thread/INFO]: Injecting profiler invokation callback for preRenderGUI in class net.minecraft.client.renderer.EntityRenderer
+[18:08:04] [Client thread/INFO]: Injecting profiler invokation callback for postRender in class net.minecraft.client.renderer.EntityRenderer
+[18:08:04] [Client thread/INFO]: Injecting profiler invokation callback for onSetupCameraTransform in class net.minecraft.client.renderer.EntityRenderer
+[18:08:04] [Client thread/INFO]: Injecting profiler invokation callback for postRenderEntities in class net.minecraft.client.renderer.EntityRenderer
+[18:08:04] [Client thread/INFO]: Injecting profiler invokation callback for postRender in class net.minecraft.client.renderer.EntityRenderer
+[18:08:13] [Client thread/INFO]: Injecting method return callback for onPlayerLogin in class net.minecraft.server.management.ServerConfigurationManager
+[18:08:13] [Client thread/INFO]: Injecting method return callback for onPlayerLogout in class net.minecraft.server.management.ServerConfigurationManager
+[18:08:13] [Client thread/INFO]: Injecting method return callback for onSpawnPlayer in class net.minecraft.server.management.ServerConfigurationManager
+[18:08:13] [Client thread/INFO]: Injecting method return callback for onRespawnPlayer in class net.minecraft.server.management.ServerConfigurationManager
+[18:08:36] [Client thread/INFO]: JInput Component Registry initialised, found 7 controller(s) 288 component(s)
+[18:08:36] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ServerCustomPayloadPacketTransformer for iz
+[18:08:37] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.CustomPayloadPacketTransformer for gr
+[18:08:37] [Client thread/INFO]: LiteLoader begin INIT...
+[18:08:37] [Client thread/INFO]: Injecting external mods into class path...
+[18:08:37] [Client thread/INFO]: Successfully injected mod file 'F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod' into classpath
+[18:08:37] [Client thread/INFO]: Successfully injected mod file 'F:\Minecraft\SuikaCraft#6\.minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar' into classpath
+[18:08:37] [Client thread/INFO]: Injecting external mods into class path...
+[18:08:37] [Client thread/INFO]: Discovering mods on class path...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.7.10-10.13.2.1230\forge-1.7.10-10.13.2.1230.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.11\launchwrapper-1.11.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.5\jopt-simple-4.5.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.3.5\realms-1.3.5.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.3.1\vecmath-1.3.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.10.Final\netty-all-4.0.10.Final.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\16.0\guava-16.0.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.2.1\commons-lang3-3.2.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.16\authlib-1.5.16.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.1\lwjgl-2.9.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.1\lwjgl_util-2.9.1.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\5.16\twitch-5.16.jar...
+[18:08:37] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.minecraft\versions\1.7.10-Forge10.13.2.1230\1.7.10-Forge10.13.2.1230.jar...
+[18:08:37] [Client thread/INFO]: Discovering mods in valid mod files...
+[18:08:37] [Client thread/INFO]: Searching F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod...
+[18:08:37] [Client thread/INFO]: Found 1 potential matches
+[18:08:37] [Client thread/INFO]: Searching F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_voxelMap_1.2.3_for_1.7.10.litemod...
+[18:08:37] [Client thread/INFO]: Found 1 potential matches
+[18:08:37] [Client thread/INFO]: Searching F:\Minecraft\SuikaCraft#6\.minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar...
+[18:08:37] [Client thread/INFO]: Found 1 potential matches
+[18:08:37] [Client thread/INFO]: Discovering mods in valid mod files...
+[18:08:37] [Client thread/INFO]: Mod class discovery completed
+[18:08:37] [Client thread/INFO]: LiteLoader begin POSTINIT...
+[18:08:37] [Client thread/INFO]: Inhibiting sound handler reload
+[18:08:37] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientEvents for API LiteLoader core API
+[18:08:37] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ServerChatPacketTransformer for ir
+[18:08:37] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.ChatPacketTransformer for gj
+[18:08:37] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.JoinGamePacketTransformer for hd
+[18:08:37] [Client thread/INFO]: PacketTransformer: Running transformer com.mumfrey.liteloader.client.transformers.LoginSuccessPacketTransformer for js
+[18:08:37] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[18:08:37] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[18:08:37] [Client thread/INFO]: Discovered 3 total mod(s)
+[18:08:37] [Client thread/INFO]: Loading mod from com.mumfrey.worldeditcui.LiteModWorldEditCUI
+[18:08:37] [Client thread/INFO]: Successfully added mod WorldEditCUI version 1.7.10_00
+[18:08:37] [Client thread/INFO]: Adding "F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod" to active resource pack set
+[18:08:37] [Client thread/INFO]: Setting up "mod_worldeditcui_1.7.10_00_mc1.7.10.litemod" as mod resource pack with identifier "WorldEditCUI"
+[18:08:37] [Client thread/INFO]: Successfully added "F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_worldeditcui_1.7.10_00_mc1.7.10.litemod" to active resource pack set
+[18:08:37] [Client thread/INFO]: Loading mod from com.thevoxelbox.voxelmap.litemod.LiteModVoxelMap
+[18:08:37] [Client thread/INFO]: Successfully added mod VoxelMap version 1.2.3
+[18:08:37] [Client thread/INFO]: Adding "F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_voxelMap_1.2.3_for_1.7.10.litemod" to active resource pack set
+[18:08:37] [Client thread/INFO]: Setting up "mod_voxelMap_1.2.3_for_1.7.10.litemod" as mod resource pack with identifier "VoxelMap"
+[18:08:37] [Client thread/INFO]: Successfully added "F:\Minecraft\SuikaCraft#6\.minecraft\mods\mod_voxelMap_1.2.3_for_1.7.10.litemod" to active resource pack set
+[18:08:37] [Client thread/INFO]: Loading mod from yalter.mousetweaks.loaders.LiteModMouseTweaks
+[18:08:37] [Client thread/INFO]: Successfully added mod Mouse Tweaks version 2.4.4
+[18:08:37] [Client thread/INFO]: Adding "F:\Minecraft\SuikaCraft#6\.minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar" to active resource pack set
+[18:08:37] [Client thread/INFO]: Setting up "MouseTweaks-2.4.4-mc1.7.10.jar" as mod resource pack with identifier "Mouse Tweaks"
+[18:08:37] [Client thread/INFO]: Successfully added "F:\Minecraft\SuikaCraft#6\.minecraft\mods\MouseTweaks-2.4.4-mc1.7.10.jar" to active resource pack set
+[18:08:37] [Client thread/INFO]: Initialising mod WorldEditCUI version 1.7.10_00
+[18:08:37] [Client thread/INFO]: Initialising mod VoxelMap version 1.2.3
+[18:08:37] [Client thread/INFO]: Initialising mod Mouse Tweaks version 2.4.4
+[18:09:35] [Client thread/INFO]: Calling late init for mod WorldEditCUI
+[18:09:35] [Client thread/INFO]: Calling late init for mod VoxelMap
+[18:09:36] [Client thread/INFO]: Sound handler reload inhibit removed
+[18:09:36] [Client thread/INFO]: Reloading sound handler

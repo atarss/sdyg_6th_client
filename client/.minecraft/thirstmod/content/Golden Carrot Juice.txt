@@ -1,0 +1,16 @@
+item
+ name:Golden Carrot Juice
+ internal_name:golden_carrot_juice
+ colour:E3C105
+ stacksize:64
+ effect:true
+ always_drinkable:false
+recipe
+ item:golden_carrot
+thirst_stats
+ bar_heal:8
+ saturation_heal:4
+potion_effect
+ id:16
+ duration:30
+ amplifier:1

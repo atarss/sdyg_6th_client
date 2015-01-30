@@ -1,0 +1,20 @@
+<oo>
+    <tileentity id="Furnace">
+        <line displayname="Burn Time">
+            return nbt['BurnTime']
+        </line>
+        <line displayname="Burn Time">
+            return name(nbt['Items'][0])
+        </line>
+    </tileentity>
+    <entity id="Sheep">
+        <line displayname="Until next love">
+            return nbt['InLove']
+        </line>
+    </entity>
+    <tooltip id="minecraft:skull">
+        <line displayname="OwnerName">
+            return nbt['SkullOwner']
+        </line>
+    </tooltip>
+</oo>

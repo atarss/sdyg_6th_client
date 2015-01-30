@@ -1,0 +1,16 @@
+item
+ name:Liquid Magma Cream
+ internal_name:magma_drink
+ colour:401213
+ stacksize:64
+ effect:true
+ alwayse_drinkable:false
+recipe
+ item:magma_cream
+thirst_stats
+ bar_heal:9
+ saturation_heal:1.6
+potion_effect
+ id:12
+ duration:120
+ amplifier:1

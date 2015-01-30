@@ -1,0 +1,16 @@
+item
+ name:Apple Juice
+ internal_name:apple_juice
+ colour:C4694B
+ stacksize:64
+ effect:true
+ always_drinkable:false
+recipe
+ item:apple
+thirst_stats
+ bar_heal:5
+ saturation_heal:1.2
+potion_effect
+ id:22
+ duration:10
+ amplifier:1

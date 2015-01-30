@@ -1,0 +1,16 @@
+item
+ name:Seed Tea
+ internal_name:seed_tea
+ colour:FAF86B
+ stacksize:64
+ effect:true
+ always_drinkable:false
+recipe
+ item:wheat_seeds
+thirst_stats
+ bar_heal:3
+ saturation_heal:2
+potion_effect
+ id:25
+ duration:15
+ amplifier:0

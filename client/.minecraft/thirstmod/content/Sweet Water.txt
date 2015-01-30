@@ -1,0 +1,16 @@
+item
+ name:Sweet Water
+ internal_name:sweet_water
+ colour:72FCAB
+ stacksize:64
+ effect:true
+ always_drinkable:false
+recipe
+ item:reeds
+thirst_stats
+ bar_heal:6
+ saturation_heal:1
+potion_effect
+ id:1
+ duration:10
+ amplifier:0

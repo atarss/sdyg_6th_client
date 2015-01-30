@@ -1,0 +1,16 @@
+item
+ name:Huge Melonade juice
+ internal_name:huge_melonade
+ colour:ED934B
+ stacksize:64
+ effect:true
+ always_drinkable:false
+recipe
+ item:melon_block
+thirst_stats
+ bar_heal:20
+ saturation_heal:1.5
+potion_effect
+ id:2
+ duration:10
+ amplifier:1

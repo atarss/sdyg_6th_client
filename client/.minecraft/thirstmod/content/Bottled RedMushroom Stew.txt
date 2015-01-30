@@ -1,0 +1,16 @@
+item
+ name:Bottled Red Mushroom Stew
+ internal_name:bottled_redstew
+ colour:E0384F
+ stacksize:64
+ effect:true
+ always_drinkable:false
+recipe
+ item:red_mushroom
+thirst_stats
+ bar_heal:5
+ saturation_heal:1.5
+potion_effect
+ id:25
+ duration:60
+ amplifier:0
